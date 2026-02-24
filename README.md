@@ -157,31 +157,15 @@ nextar-intelligence/
 ├── README.md
 └── requirements.txt
 
-
 ====================================================================
 
-        STACK TECNOLÓGICA
-
-+----------------------+-----------------------+
-| Camada               | Tecnologia            |
-+----------------------+-----------------------+
-| Machine Learning     | PyTorch               |
-| Manipulação de Dados | Pandas, NumPy         |
-| Visualização         | Matplotlib, Chart.js  |
-| Backend Web          | PHP 8                 |
-| IA Generativa        | LM Studio             |
-| Normalização         | Z-Score               |
-+----------------------+-----------------------+
-
-
-====================================================================
 
         INSTALAÇÃO
 
 1) Clone o repositório
 
-git clone https://github.com/seu-usuario/nextar-intelligence.git
-cd nextar-intelligence
+git clone [https://github.com/seu-usuario/nextar-intelligence.git](https://github.com/skora09/Nextar-Intelligence-Dashboard)
+cd nextar-intelligence-Dashboard
 
 
 2) Instale dependências Python
@@ -238,4 +222,5 @@ Projeto desenvolvido por Guilherme Lopuch como demonstração de capacidade téc
 ![Deep Learning](https://img.shields.io/badge/DeepLearning-NeuralNetworks-blueviolet)
 ![PHP](https://img.shields.io/badge/PHP-Backend-777BB4)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
     

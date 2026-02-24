@@ -144,7 +144,7 @@ MÉTRICAS EM TEMPO REAL
 
 1) Clone o repositório
 
-git clone [https://github.com/seu-usuario/nextar-intelligence.git](https://github.com/skora09/Nextar-Intelligence-Dashboard)
+git clone [https://github.com/skora09/Nextar-Intelligence-Dashboard.git]
 cd nextar-intelligence-Dashboard
 
 
@@ -204,4 +204,5 @@ Projeto desenvolvido por Guilherme Lopuch como demonstração de capacidade téc
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
     
+
 

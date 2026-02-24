@@ -87,7 +87,7 @@ PROCESSAMENTO LOCAL
 PÓS-PROCESSAMENTO
 
 - Filtro Regex
-- Remoção de tags como <think>
+- Remoção de tags como think
 - Output limpo para dashboard
 
 ------------------------------------------------------------
@@ -139,26 +139,6 @@ MÉTRICAS EM TEMPO REAL
   <img src="data/dash2.png" width="700">
 </p>
 ====================================================================
-
-        ESTRUTURA PROFISSIONAL DO REPOSITÓRIO
-
-nextar-intelligence/
-│
-├──
-├── treinamento_estoque.py
-├── narrativa_ia.py
-├── modelos/
-│   └── *.pth
-│
-├── logs/
-│
-├── outputs_estoque/
-│
-├── README.md
-└── requirements.txt
-
-====================================================================
-
 
         INSTALAÇÃO
 
@@ -224,3 +204,4 @@ Projeto desenvolvido por Guilherme Lopuch como demonstração de capacidade téc
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
     
+
